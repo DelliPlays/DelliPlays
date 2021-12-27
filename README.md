@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DelliPlays
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning game dev with Unity and c#
 
 <!---
 DelliPlays/DelliPlays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
